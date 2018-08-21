@@ -10,13 +10,7 @@ $RECYCLE.BIN/
 
 .DS_Store
 Thumbs.db
-/src/client/angular/backup/
-/src/client/angular/directive/calendar_backup.es6
-/logs/server.log
-/key.json
-build/
-public/mobile/
-public/vendor/
+bowser_components/
 /temp/
 /yarn.lock
 /yarn-error.log
